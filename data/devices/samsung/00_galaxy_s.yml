@@ -568,6 +568,7 @@
     - zeroflteke
     - zerofltezt
     - zerofltezc
+    - 
     # Flat japan variant
     - zerofltedcm
     # Edge china variant
@@ -918,11 +919,10 @@
     theme: portrait_hdpi
 
 	
-	- name: SM-G920W8
+	- name: CANADA BELL SAMSUNG GALAXY S6 SM-G920W8
   id: zerofltebmc
   codenames:
     - zerofltebmc
-	- zerofltecan
   architecture: arm64-v8a
 
   block_devs:
