@@ -919,10 +919,11 @@
     theme: portrait_hdpi
 
 	
-	- name: CANADA BELL SAMSUNG GALAXY S6 SM-G920W8
-  id: zerofltebmc
+- name: CANADA BELL SAMSUNG GALAXY S6 SM-G920W8
+  id: zeroflte
   codenames:
     - zerofltebmc
+    - zerofltecan
   architecture: arm64-v8a
 
   block_devs:
@@ -956,4 +957,3 @@
     max_brightness: 255
     default_brightness: 162
     theme: portrait_hdpi
-	
