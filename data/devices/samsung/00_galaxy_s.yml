@@ -529,7 +529,8 @@
     - zerofltebmc
     - zerofltetmo
     - zerofltexx
-    # Edge variant
+    - zerofltecan
+    # Edge variantz
     - zerolte
     - zeroltebmc
     - zeroltetmo
@@ -567,8 +568,6 @@
     - zerofltezm
     - zeroflteke
     - zerofltezt
-    - zerofltezc
-    - 
     # Flat japan variant
     - zerofltedcm
     # Edge china variant
