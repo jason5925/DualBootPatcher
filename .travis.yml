@@ -65,4 +65,4 @@ after_success:
   - md5sum ${TRAVIS_BUILD_DIR}/DualBootPatcher/build/utilities/DualBootUtilities-9.2.0.zip
   # Upload to transfer.sh
   - cd ${TRAVIS_BUILD_DIR}/DualBootPatcher/build/utilities && curl --upload-file ./DualBootUtilities-9.2.0.zip https://transfer.sh/DualBootUtilities-9.2.0.zip
-  - cd ${TRAVIS_BUILD_DIR}/DualBootPatcher/Android_GUI/build/outputs/apk/ && curl --upload-file ./Android_GUI-debug.apk https://transfer.sh/Android_GUI-debug.apk
+  - cd ${TRAVIS_BUILD_DIR}/DualBootPatcher/Android_GUI/build/outputs/apk/ && curl --upload-file ./Android_GUI-debug.apk https://transfer.sh/DualBootPatcher.apk
